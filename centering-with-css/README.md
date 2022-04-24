@@ -1,7 +1,7 @@
 
 ## put item in middle
 ## Quiz link
-[Quora Ques](httpshttps://quera.org/problemset/68275/).
+[Quora Ques](https://quera.org/problemset/68275/).
 
 ## Usage/css
 
