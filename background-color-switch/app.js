@@ -4,7 +4,7 @@ var bodyEl = document.body;
 itemsEl.forEach((item) => {
     item.addEventListener("click", (e) => {
         const colorSelected = e.target.getAttribute("id");
-        console.log(colorSelected);
+        // console.log(colorSelected);
         bodyEl.style.backgroundColor = colorSelected
     });
 });
