@@ -1,4 +1,4 @@
-# my-solution-for-Quora-questions
+<!-- # My Solution for Quora Questions -->
 
 ## React
 
@@ -8,13 +8,13 @@
 
 ## Web
 
-| Name                       | Question Link                                | git Link                                                                                                      |
-| -------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| Spiral -CSS                | [Link](https://quera.org/problemset/82518/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/Flex-box-layout-styling-Spiral) |
-| Snapp Shop -CSS , HTML     | [Link](https://quera.org/problemset/109570/) | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/Quera_SnappShop)                |
-| Bg Color Switch -JS        | [Link](https://quera.org/problemset/49606/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/background-color-switch)        |
-| Item in Middle -CSS        | [Link](https://quera.org/problemset/68275/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/centering-with-css)             |
-| Code Cup6 -CSS             | [Link](https://quera.org/problemset/132260/) | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/hello-code-cup6)                |
-| Home page bale -CSS , HTML | [Link](https://quera.org/problemset/98448/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/home-page-bale)                 |
-| Price Range -CSS , HTML    | [Link](https://quera.org/problemset/134351/) | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/price-range)                    |
-| XO -CSS , HTML             | [Link](https://quera.org/problemset/66544/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/tic_tac_toe)                    |
+| Name            | Question Link                                | git Link                                                                                                      | Usage       |
+| --------------- | -------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ----------- |
+| Snapp Shop      | [Link](https://quera.org/problemset/109570/) | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/Quera_SnappShop)                | HTML,CSS    |
+| Home page bale  | [Link](https://quera.org/problemset/98448/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/home-page-bale)                 | HTML,CSS    |
+| Price Range     | [Link](https://quera.org/problemset/134351/) | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/price-range)                    | HTML,CSS    |
+| XO              | [Link](https://quera.org/problemset/66544/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/tic_tac_toe)                    | HTML,CSS,JS |
+| Item in Middle  | [Link](https://quera.org/problemset/68275/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/centering-with-css)             | CSS         |
+| Code Cup6       | [Link](https://quera.org/problemset/132260/) | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/hello-code-cup6)                | CSS         |
+| Spiral          | [Link](https://quera.org/problemset/82518/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/Flex-box-layout-styling-Spiral) | CSS         |
+| Bg Color Switch | [Link](https://quera.org/problemset/49606/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/background-color-switch)        | JS          |
