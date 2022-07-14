@@ -2,9 +2,10 @@
 
 ## React
 
-| Name           | Question Link                                | git Link                                                                                      |
-| -------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| Unit Converter | [Link](https://quera.org/problemset/109568/) | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/unit-converter) |
+| Name           | Question Link                                | git Link                                                                                      | Usage       |
+| -------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------- |
+| Unit Converter | [Link](https://quera.org/problemset/109568/) | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/unit-converter) | Event,state |
+| Input Mask | [Link](https://quera.org/problemset/66546/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/input_mask)     | Event,state |
 
 ## Web
 
