@@ -1,0 +1,6 @@
+html body p {
+    color: indianred !important ;
+}
+html body div#container p {
+    color: indigo !important ;
+}
