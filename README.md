@@ -6,7 +6,7 @@
 | -------------- | -------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------ |
 | Unit Converter | [Link](https://quera.org/problemset/109568/) | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/unit-converter) | Event,useState           |
 | Input Mask     | [Link](https://quera.org/problemset/66546/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/input_mask)     | Event,useState           |
-| Simple Timer   | [Link](https://quera.org/problemset/66546/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/simple-timer)   | Event,useState,useEffect |
+| Simple Timer   | [Link](https://quera.org/problemset/33123/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/simple-timer)   | Event,useState,useEffect |
 
 ## FrontEnd
 
@@ -21,3 +21,4 @@
 | Spiral          | [Link](https://quera.org/problemset/82518/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/Flex-box-layout-styling-Spiral) | CSS         |
 | Nested Selector | [Link](https://quera.org/problemset/66543/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/nested_selector)                | CSS         |
 | Bg Color Switch | [Link](https://quera.org/problemset/49606/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/background-color-switch)        | JS          |
+| Products        | [Link](https://quera.org/problemset/66548/)  | [Link](https://github.com/sajjad-10/my-solution-for-Quora-questions/tree/main/products)                       | JS          |
